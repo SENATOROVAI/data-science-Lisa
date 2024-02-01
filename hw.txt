@@ -1,4 +1,6 @@
-﻿Git:
+﻿выполненные задания переносим в Архив(внизу файла)
+
+Git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
@@ -68,10 +70,7 @@ https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
                                                                         
 Computer Science:
 1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
-
-
-выполненные задания переносим в Архив
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc
 
 ==================================
 ==================================
